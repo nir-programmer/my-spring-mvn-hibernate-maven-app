@@ -21,7 +21,7 @@
 	<mvc:annotation-driven/>
 	
 	<!--  I add this section to find the resources folder with css -->
-	<mvc:resources location="/resources" mapping="/resources/**" />
+	<mvc:resources location="/resources/" mapping="/resources/**" />
 	
 	
 	<!-- Define Spring MVC view resolver -->
