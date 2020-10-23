@@ -10,7 +10,7 @@ public class CustomerController
 {
 	public String hello(Model model )
 	{
-		model.addAttribute("Hello World Nir SPRPING MVC");
+		model.addAttribute("message" , "Hello World Nir SPRPING MVC");
 		return "hello";
 	}
 
