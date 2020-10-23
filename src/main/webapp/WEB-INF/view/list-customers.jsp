@@ -8,5 +8,7 @@
 </head>
 <body>
 	<h2>Hello Nir !!!!Spring MVC</h2>
+	
+	
 </body>
 </html>
