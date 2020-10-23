@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("/customers")
 public class CustomerController
 {
+	@RequestMapping("/hello")
 	public String hello(Model model )
 	{
 		model.addAttribute("message" , "Hello World Nir SPRPING MVC");
