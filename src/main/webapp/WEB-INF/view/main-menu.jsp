@@ -8,18 +8,11 @@
 </head>
 <body>
 	<h2>Hello World From Spring WEB MVC</h2>
-	
-	<hr>
-	
-	<a href = "showForm">Hello World</a>
+
 	
 	<br><br>
 	
-	<a href = "student/showForm">Student Form</a>
-	
-	<br><br>
-	
-	<a href = "customer/showForm">Customer Form</a>
+	<a href = "customers/list">Customer Form</a>
 	
 	
 </body>
