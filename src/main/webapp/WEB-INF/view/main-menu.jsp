@@ -12,7 +12,7 @@
 	
 	<br><br>
 	
-	<a href = "customers/list">Customer Form</a>
+	<a href = "customers/list">Go to My app</a>
 	
 	
 </body>
