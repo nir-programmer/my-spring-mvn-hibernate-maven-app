@@ -24,7 +24,7 @@ public class CustomerController
 	{
 		//get customers from  dao
 		List<Customer> theCustomers = customerDAO.getCustomers();
-		
+		System.out.println(">>CustomerController" + theCustomers);
 		//add the customers to the spring mvc model
 		theModel.addAttribute("customers" , theCustomers);
 		
